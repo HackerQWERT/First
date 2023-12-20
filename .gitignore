@@ -1,2 +1,68 @@
 # Godot 4+ specific ignores
 .godot/
+# General
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.AppleDouble
+.DS_Store
+.LSOverride
+
+# Windows
+Desktop.ini
+Thumbs.db
+*.pif
+*.lnk
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Java
+*.class
+
+# Eclipse
+.settings/
+bin/
+*.launch
+*.swp
+*.swo
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.iwp
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Android Studio
+*.iml
+.gradle/
+/local.properties
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build/
+/captures/
